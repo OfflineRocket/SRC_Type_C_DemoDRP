@@ -1,0 +1,7 @@
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/GUI_INTERFACE/bsp_gui.c:62:19:BSP_GUI_LoadDataFromFlash	40	static
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/GUI_INTERFACE/bsp_gui.c:198:19:BSP_GUI_EraseDataInFlash	32	static,ignoring_inline_asm
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/GUI_INTERFACE/bsp_gui.c:261:19:BSP_GUI_SaveDataInFlash	120	static,ignoring_inline_asm
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/GUI_INTERFACE/bsp_gui.c:446:26:SavePDOInFlash	80	static
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/GUI_INTERFACE/bsp_gui.c:534:26:SaveSettingsInFlash	88	static
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/GUI_INTERFACE/bsp_gui.c:638:26:LoadPDOFromFlash	32	static
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/GUI_INTERFACE/bsp_gui.c:657:26:LoadSettingsFromFlash	40	static

@@ -1,0 +1,17 @@
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:149:6:TRACER_EMB_Init	8	static
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:165:6:TRACER_EMB_DeInit	8	static
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:170:6:TRACER_EMB_Add	32	static
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:196:6:TRACER_EMB_IRQHandlerDMA	8	static
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:202:6:TRACER_EMB_IRQHandlerUSART	8	static
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:211:6:TRACER_EMB_WriteData	16	static
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:216:6:TRACER_EMB_StartRX	16	static
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:222:9:TRACER_EMB_EnableOverFlow	16	static
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:238:9:TRACER_EMB_ReadData	8	static
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:257:6:TRACER_EMB_CALLBACK_TX	24	static,ignoring_inline_asm
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:284:6:TRACER_EMB_Lock	24	static,ignoring_inline_asm
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:297:6:TRACER_EMB_UnLock	24	static,ignoring_inline_asm
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:311:6:TRACER_EMB_SendData	40	static,ignoring_inline_asm
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:368:9:TRACER_EMB_AllocateBufer	40	static,ignoring_inline_asm
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:414:13:TRACER_EMB_LowPowerInit	8	static
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:418:13:TRACER_EMB_LowPowerSendData	8	static
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:422:13:TRACER_EMB_LowPowerSendDataComplete	8	static

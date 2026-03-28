@@ -1,0 +1,17 @@
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:149:6:TRACER_EMB_Init	1
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:165:6:TRACER_EMB_DeInit	1
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:170:6:TRACER_EMB_Add	5
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:196:6:TRACER_EMB_IRQHandlerDMA	1
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:202:6:TRACER_EMB_IRQHandlerUSART	1
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:211:6:TRACER_EMB_WriteData	1
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:216:6:TRACER_EMB_StartRX	1
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:222:9:TRACER_EMB_EnableOverFlow	2
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:238:9:TRACER_EMB_ReadData	1
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:257:6:TRACER_EMB_CALLBACK_TX	4
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:284:6:TRACER_EMB_Lock	1
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:297:6:TRACER_EMB_UnLock	1
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:311:6:TRACER_EMB_SendData	6
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:368:9:TRACER_EMB_AllocateBufer	6
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:414:13:TRACER_EMB_LowPowerInit	1
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:418:13:TRACER_EMB_LowPowerSendData	1
+C:/Users/Buddy/Documents/SRC_Type_C_DemoDRP/Utilities/TRACER_EMB/tracer_emb.c:422:13:TRACER_EMB_LowPowerSendDataComplete	1
