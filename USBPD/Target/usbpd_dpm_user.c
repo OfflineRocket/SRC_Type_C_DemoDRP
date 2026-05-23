@@ -78,7 +78,7 @@ void                USBPD_DPM_UserExecute(void const *argument);
 void                USBPD_DPM_UserExecute(void *argument);
 #endif /* osCMSIS < 0x20000U */
 /* USER CODE BEGIN Private_Define */
-
+uint8_t USBC_Connected = 0;
 /* USER CODE END Private_Define */
 
 /**
@@ -356,8 +356,12 @@ void USBPD_DPM_Notification(uint8_t PortNum, USBPD_NotifyEventValue_TypeDef Even
   {
 //    case USBPD_NOTIFY_POWER_EXPLICIT_CONTRACT :
 //      break;
-//    case USBPD_NOTIFY_REQUEST_ACCEPTED:
-//      break;
+    case USBPD_NOTIFY_REQUEST_ACCEPTED:
+    	USBC_Connected = 1;
+    	break;
+//    case USBPD_NOTIFY_DETACH:
+//    	USBC_Connected = 0;
+//    	break;
 //    case USBPD_NOTIFY_REQUEST_REJECTED:
 //    case USBPD_NOTIFY_REQUEST_WAIT:
 //      break;
@@ -380,8 +384,9 @@ void USBPD_DPM_Notification(uint8_t PortNum, USBPD_NotifyEventValue_TypeDef Even
 //      break;
 //    case USBPD_NOTIFY_USBSTACK_START:
 //      break;
-//    case USBPD_NOTIFY_USBSTACK_STOP:
-//      break;
+    case USBPD_NOTIFY_USBSTACK_STOP:
+    	USBC_Connected = 0;
+      break;
 //    case USBPD_NOTIFY_DATAROLESWAP_DFP :
 //      break;
 //    case USBPD_NOTIFY_DATAROLESWAP_UFP :
